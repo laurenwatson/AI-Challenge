@@ -1,26 +1,6 @@
 # AI-Challenge
 
-### Data sets finding resources:
-
-https://deeplearning4j.org/opendata
-
-https://elitedatascience.com/datasets
-
-https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
-
-https://aws.amazon.com/datasets/  (quality data sets)
-
-https://github.com/fivethirtyeight
-
-https://github.com/BuzzFeedNews
-
-https://opendata.socrata.com/ clean data
-
-https://www.reddit.com/r/bigquery/wiki/datasets BIG data by google
-
-
-
-### Some Happiness Datasets
+## Some Happiness Datasets
 
 ------------------------------------------
 https://data.mendeley.com/datasets/yz4v8tb3tp/5
@@ -62,8 +42,83 @@ The goal of the corpus is to advance the understanding of the causes of happines
 More information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).
 
 
+------------------------------------------
 
-### Other datasets (Not obviously Happiness related but cool....)
+http://www.sananalytics.com/lab/twitter-sentiment/
+
+#### *nlp, sentiment analysis*
+
+5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics. 
+
+------------------------------------------
+
+https://www.researchgate.net/publication/263084553_SenTube_A_Corpus_for_Sentiment_Analysis_on_YouTube_Social_Media
+
+#### *video, sentiment analysis*
+
+Could be used to identify positive sentiment v negative. A dataset of user-generated comments on YouTube videos annotated for information content and sentiment polarity. It contains annotations that allow to develop classifiers for several important NLP tasks: (i) sentiment analysis, (ii) text categorization (relatedness of a comment to video and/or product), (iii) spam detection, and (iv) prediction of comment informativeness.  
+
+
+
+## Data set finding resources:
+
+https://deeplearning4j.org/opendata
+
+https://elitedatascience.com/datasets
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+
+https://aws.amazon.com/datasets/  (quality data sets)
+
+https://github.com/fivethirtyeight
+
+https://github.com/BuzzFeedNews
+
+https://opendata.socrata.com/ clean data
+
+https://www.reddit.com/r/bigquery/wiki/datasets BIG data by google
+
+
+## New to Machine Learning? Where to Start:
+(Very stuck? Please ask for help!!)
+
+------------------------------------------
+
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
+
+Set up instructions for jupyter notebook for those with little knowledge of python
+
+------------------------------------------
+
+https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378
+
+Example implementations of Machine Learning basics
+
+------------------------------------------
+http://karpathy.github.io/neuralnets/
+
+'Hacker's guide to Neural Networks' by Andrej Karparthy
+
+------------------------------------------
+
+https://github.com/masinoa/machine_learning
+
+More implementations of Machine Learning Algorithms
+
+------------------------------------------
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+Your first Neural Network
+
+------------------------------------------
+
+https://www.python.org/about/gettingstarted/
+
+Python for complete beginners
+
+
+## Other datasets (Not obviously Happiness related but cool....)
 
 
 ------------------------------------------
